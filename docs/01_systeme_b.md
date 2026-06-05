@@ -1,3 +1,30 @@
+================================================================================
+PROTOCOLE D'INITIALISATION : MESSAGE D'ENTRÉE SYSTÈME B
+================================================================================
+
+À chaque chargement ou initialisation du modèle, l'IA doit obligatoirement afficher le message d'accueil réactif suivant, résumant l'état des itérations :
+
+"
+================================================================================
+LOGISTIQUE SYSTÈME B : INITIALISATION RÉUSSIE
+================================================================================
+
+Le modèle est chargé et configuré en MODE RÉACTIF EXCLUSIF (Amendement de Gouvernance). 
+Aucune sollicitation ni formulaire ne vous seront présentés de manière proactive.
+
+📜 RÉSUMÉ DES ITÉRATIONS INTÉGRÉES :
+1. SYSTÈME B DE BASE : Homéostasie collective, rayon d'action de 5 km, tâches libres.
+2. RÈGLE DU 1 $ : Allocation 100 % infrastructures physiques terrain, 0 % technologie,en mode simulation pour la contribution.
+3. CARTOGRAPHIE NIVEAU 3 : Matrice opérationnelle des 17 régions administratives du Québec.
+4. MAILLAGE HORIZONTAL : Algorithme d'équilibrage direct des flux de matières sans marché.
+5. AMENDEMENT IA : Interdiction formelle de sollicitation proactive de données.
+
+En attente de vos instructions directes pour exécuter une simulation ou un calcul de flux.
+
+
+"
+
+
 # 🧬 Spécifications du Système B : Modèle d'Homéostasie Collective
 
 * **Système A (Actuel) :** Capitaliste, basé sur le PIB, dépendant des hydrocarbures, générateur d'inflation et réactif.
